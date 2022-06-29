@@ -2,9 +2,8 @@
 
 - Oi, me chamo @LucianoDalloBonetti
 - Me interesso em programação.
-- Gosto de fazer oque faço.
-- Procuro colaborar em equipe e ajudar os outros.
-- Você pode me se
+- Gosto de fazer o que faço.
+- Você pode me encontrar pelo Instagram...
 
 <!---
 LucianoDalloBonetti/LucianoDalloBonetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
