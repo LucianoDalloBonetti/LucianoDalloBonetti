@@ -1,12 +1,10 @@
 # Algumas coisas sobre mim
 
-
-
-- 👋 Hi, I’m @LucianoDalloBonetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Oi, me chamo @LucianoDalloBonetti
+- Me interesso em programação.
+- Gosto de fazer oque faço.
+- Procuro colaborar em equipe e ajudar os outros.
+- Você pode me se
 
 <!---
 LucianoDalloBonetti/LucianoDalloBonetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
