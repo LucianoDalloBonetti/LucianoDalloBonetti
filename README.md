@@ -1,6 +1,8 @@
 # Algumas coisas sobre mim
 
-- Oi, me chamo @LucianoDalloBonetti
+
+- Oi, me chamo Luciano
+- Meu email de contato é bonetti.luciano@escola.pr.gov.br
 - Me interesso em programação.
 - Gosto de fazer o que faço.
 - Você pode me encontrar pelo Instagram...
