@@ -1,7 +1,7 @@
 # Algumas coisas sobre mim
 
 
-- Oi, me chamo Luciano
+- Oi, me chamo Luciano.
 - Meu email de contato é este mesmo.
 - Me interesso em programação.
 - Gosto de fazer o que faço.
