@@ -2,10 +2,10 @@
 
 
 - Oi, me chamo Luciano
-- Meu email de contato é...
+- Meu email de contato é este mesmo.
 - Me interesso em programação.
 - Gosto de fazer o que faço.
-- Você pode me encontrar pelo Instagram...
+- Você pode me encontrar pelo Instagram.
 
 <!---
 LucianoDalloBonetti/LucianoDalloBonetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
